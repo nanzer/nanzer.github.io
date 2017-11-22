@@ -3418,7 +3418,7 @@
 		left: 0;
 		line-height: 1.25em;
 		position: fixed;
-		text-align: right;
+		text-align: center;
 		top: 0;
 		width: 100%;
 		z-index: 10001;
@@ -3430,7 +3430,7 @@
 			left: 1.25em;
 			line-height: inherit;
 			margin: 0;
-			padding: 1em;
+			padding: 0;
 			position: absolute;
 			top: 0;
 			font-family: Quicksand;
@@ -3438,7 +3438,7 @@
 
 			#header > .logo a {
 				font-size: 1.25em;
-				color: #3498db;
+				color: #ea2e49;
 			}
 
 				#header > .logo a:hover {
@@ -3525,11 +3525,11 @@
 			-webkit-animation: none;
 			-ms-animation: none;
 			animation: none;
-			background-color: rgba(0,0,0,0.75);
+			background-color: transparent;
 			box-shadow: none;
 			overflow: hidden;
 			position: absolute;
-			top: 0;
+			top: 1.5em;
 		}
 
 			#header.alt h1 {
