@@ -1586,7 +1586,7 @@
 
 	body {
 		background-color: #000;
-		color: #999999;
+		color: #BBB;
 	}
 
 	body, input, select, textarea {
@@ -1663,12 +1663,12 @@
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
+			color: white;
 			text-decoration: none;
 		}
 
 	h1 {
-		font-size: 3em;
+		font-size: 5em;
 		margin-bottom: .25em;
 	}
 
@@ -3411,7 +3411,7 @@
 	}
 
 	#header {
-		background: rgba(0, 0, 0, 0.75);
+		background: rgba(0, 0, 0, 1);
 		color: #aed6f1;
 		cursor: default;
 		height: 3.25em;
@@ -3420,8 +3420,9 @@
 		position: fixed;
 		text-align: right;
 		top: 0;
+		padding-top:1%;
 		width: 100%;
-		z-index: 10001;
+		z-index: 100001;
 	}
 
 		#header > .logo {
@@ -3430,7 +3431,7 @@
 			left: 1.25em;
 			line-height: inherit;
 			margin: 0;
-			padding: 1em;
+			padding: 1%;
 			position: absolute;
 			top: 0;
 			font-family: Quicksand;
@@ -3537,7 +3538,7 @@
 			}
 
 			#header.alt nav {
-				right: 2.5em;
+				right: 2.5em;;
 			}
 
 	@media screen and (max-width: 980px) {
