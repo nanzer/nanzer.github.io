@@ -4,7 +4,21 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
+    // Used for the title template on pages other than the index site
+    siteTitle: `Abhayraj.net`,
+    // Default title of the page
     siteTitleAlt: `Abhayraj.net`,
+    // Can be used for e.g. JSONLD
+    // siteHeadline: ``,
+    // Will be used to generate absolute URLs for og:image etc.
+    siteUrl: `https://abhayraj.net`,
+    // Used for SEO
+    siteDescription: `Abhayraj Jain's digital portfolio.`,
+    // Will be set on the <html /> tag
+    siteLanguage: `en`,
+    // Used for og:image and must be placed inside the `static` folder
+    siteImage: `/banner.jpg`,
+    // Twitter Handle
   },
   plugins: [
     {
