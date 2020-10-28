@@ -1,20 +1,32 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "role":"Communications Assistant (Part-time)",
+        "company":"Faculty of Engineering, McMaster University",
+        "summary":"Assisted the Strategic Communications Department with content creation, including graphics, videos, webpages, and other materials as required.",
+        "range":"September 2020 - Present"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"Design Engineering Associate (Part-time)",
+        "company":"Celestica Inc.",
+        "summary":"Developed business intelligence dashboards to automatically track and forecast revenue for Value Engineering projects. Worked closely with the Supply Chain Department to implement accurate shipment data in the above.",
+        "range":"September 2020 - Present"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Design Engineering Associate (Co-op)",
+        "company":"Celestica Inc.",
+        "summary":"Part of the Aerospace & Defense Value Engineering team that worked on avionic modules and systems. Assisted with reading schematics, parsing part data, selecting qualified alternate components, and preparing design and testing proposals. Worked closely with the Supply Chain Department to to implement Value Engineering projects that reduced material cost and/or scrap rate. Developed dashboards to track value engineering project performance against key performance indicators.",
+        "range":"September 2019 - August 2020"
+    },
+    {
+        "role":"Intermediate Security Analyst (Co-op)",
+        "company":"BMO Financial Group",
+        "summary":"Part of a team that assessed vulnerabilities in Payment Security and Customer Identity & Access Management. Conducted Root Cause Analysis on a series of cyber attacks involving the SWIFT financial messaging service. Automated processes using Microsoft InfoPath and Sharepoint.",
+        "range":"May 2019 - August 2019"
+    },
+    {
+        "role":"Teaching Assistant - Engineering Design & Graphics",
+        "company":"Faculty of Engineering, McMaster University",
+        "summary":"Worked in a hands-on capacity with 1st year engineering students, teaching them CAD and Rapid Prototyping with 3D Printers.",
+        "range":"September 2017 - April 2019"
     }
 ]
