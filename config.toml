@@ -31,15 +31,17 @@ trackerID = "UA-108350429-01"
 [[params.handles]]
 link = "https://www.linkedin.com/in/abhayrajjain/"
 name = "LinkedIn"
+icontag = "LinkedIn"
 
 [[params.handles]]
 link = "https://github.com/nanzer/"
 name = "GitHub"
-
+icontag = "Git"
 
 [[params.handles]]
 link = "https://abhayraj.net/resume.pdf"
-name = "PDF"
+name = "PDF Resume"
+icontag = "black-tie"
 
 [outputs]
 home = ["HTML", "JSON"]

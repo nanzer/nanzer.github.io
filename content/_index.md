@@ -9,4 +9,5 @@ outputs:
 - rss
 - json
 ---
-Engineering student with a flair for digital art and a passion for literature.
+Mechatronics Engineering student with a flair for digital art and a passion for literature.\
+*This website is hosted on my personal CentOS server. There may be unexpected downtime.*
