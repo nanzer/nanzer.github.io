@@ -17,11 +17,12 @@ phone = "1-365-777-1613"
 profileImage = "img/profile.jpg"
 showEducation = true
 showExperience = true
-showOpenSource = true
 showProjects = true
-showPublications = true
-showQr = false
+showGraphics = true
+showWritten = true
 showSkills = true
+showQr = false
+showBlog = false
 
 [params.google]
 

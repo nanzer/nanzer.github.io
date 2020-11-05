@@ -1,5 +1,4 @@
 Projects -> Add projects
-Open Source -> Graphics
-Publications -> Literature
-Experience -> Fill list
+Graphics -> Add content
+Literature -> Add content
 Skills -> Fill

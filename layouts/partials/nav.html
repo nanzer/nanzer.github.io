@@ -20,17 +20,17 @@
       {{ end }}
       {{ if .Site.Params.showProjects }}
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/#projects">Projects</a>
+            <a class="nav-link js-scroll-trigger" href="/projects">Projects</a>
           </li>
       {{ end }}
-      {{ if .Site.Params.showOpenSource }}
+      {{ if .Site.Params.showGraphics }}
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/#open">Open Source</a>
+            <a class="nav-link js-scroll-trigger" href="/graphics">Graphics</a>
           </li>
       {{ end }}
-      {{ if .Site.Params.showPublications }}
+      {{ if .Site.Params.showWritten }}
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/#{{ default "Publications" .Site.Params.publicationsAlternateName }}">{{ default "Publications" .Site.Params.publicationsAlternateName }}</a>
+            <a class="nav-link js-scroll-trigger" href="/written">Written</a>
           </li>
       {{ end }}
       {{ if .Site.Params.showExperience }}

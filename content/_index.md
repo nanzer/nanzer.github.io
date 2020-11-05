@@ -10,4 +10,4 @@ outputs:
 - json
 ---
 Mechatronics Engineering student with a flair for digital art and a passion for literature.\
-*This website is hosted on my personal CentOS server. There may be unexpected downtime.*
+*This website is served from a small PC in my basement. There may be unexpected downtime.*

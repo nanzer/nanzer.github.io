@@ -4,20 +4,20 @@
        {{ partial "portfolio/skills.html" . }}
    {{ end }}
    {{ if .Site.Params.showProjects }}
-      {{ with .Site.GetPage "section" "projects/creations" }}
-         {{ .Scratch.Set "sectionId" "projects" }}
+      {{ with .Site.GetPage "section" "projects" }}
+         {{ .Scratch.Set "sectionId" "Projects" }}
          {{ partial "sectionSummary" . }}
       {{ end }}
    {{ end }}
-   {{ if .Site.Params.showOpenSource }}
-      {{ with .Site.GetPage "section" "projects/contributions" }}
-         {{ .Scratch.Set "sectionId" "open" }}
+   {{ if .Site.Params.showGraphics }}
+      {{ with .Site.GetPage "section" "graphics" }}
+         {{ .Scratch.Set "sectionId" "Graphics" }}
          {{ partial "sectionSummary" . }}
       {{ end }}
    {{ end }}
-   {{ if .Site.Params.showPublications }}
-      {{ with .Site.GetPage "section" "publications" }}
-         {{ .Scratch.Set "sectionId" (default "Publications" .Site.Params.publicationsAlternateName) }}
+   {{ if .Site.Params.showWritten }}
+      {{ with .Site.GetPage "section" "written" }}
+         {{ .Scratch.Set "sectionId" (default "Written" .Site.Params.publicationsAlternateName) }}
          {{ partial "sectionSummary" . }}
       {{ end }}
    {{ end }}
