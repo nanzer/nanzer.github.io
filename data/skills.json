@@ -1,32 +1,47 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+      "grouping":"Mechanical Engineering Skills & Tools",
+      "skills":[ "Engineering Design & Simulation","Manufacturing","Rapid Prototyping","CAD/CAM","SolidWorks","AutoDesk Inventor",{"name":"CNC","link":"/tags/cnc"},{"name":"3D Printing","link":"/tags/3dprinting"},"Fusion 360"]
   },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
-  },
-  {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
-  },
-  {
-      "grouping":"Data Management",
+      "grouping":"Electrical Engineering Skills & Software",
       "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
+        {"name":"Digital Signals & Logic"},
+        {"name":"Analog Sensors & Circuits"},
+        {"name":"Motors (DC, BLDC, & AC)"},
+        {"name":"Control Systems"},
+        {"name":"Microcontrollers"},
+        {"name":"Arduino","link":"/tags/arduino"},
+        {"name":"Circuit Design"},
+        {"name":"PCB Design"},
+        {"name":"EAGLE"},
+        {"name":"Component Engineering"},
+        {"name":"Electrical & Electronics MIL-SPEC"},
+        {"name":"PCB Design"}
       ]
   },
   {
-    "grouping":"Containers & Cloud",
+      "grouping":"Software Engineering Languages, Operating Systems, & Tools",
       "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
+        {"name":"Linux","icon":"linux"},
+        {"name":"CentOS/RHEL","icon":"redhat"},
+        {"name":"Power BI","icon":"database"},
+        {"name":"Netlify"},
+        {"name":"Google Cloud Platform","icon":"google-cloud-platform"},
+        {"name":"C","icon":"c"},
+        {"name":"HTML","icon":"html5"},
+        {"name":"CSS","icon":"css3_full"},
+        {"name":"JavaScript","icon":"javascript"},
+        {"name":"NodeJS","icon":"nodejs_small"}
+      ]
+  },
+  {
+    "grouping":"Graphics & Video",
+      "skills":[
+          {"name":"Adobe PhotoShop","link":"/tags/graphic","icon":"photoshop"},
+          {"name":"Adobe InDesign","link":"/tags/magazine","icon":"html5_multimedia"},
+          {"name":"Adobe Illustrator","link":"/tags/graphic","icon":"illustrator"},
+          {"name":"Adobe Premiere Pro","icon":"html5_multimedia"},
+          {"name":"DaVinci Resolve","icon":"html5_multimedia"}
       ]
   }
 ]

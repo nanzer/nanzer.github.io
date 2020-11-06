@@ -60,7 +60,11 @@ h2 {
   font-size: 3rem;
 }
 
-.list-icons .list-inline-item i:hover {
+.list-item {
+  list-style-type: none;
+}
+
+.list-icons .list-inline-item .list-item i:hover {
   color: #cc3366;
 }
 

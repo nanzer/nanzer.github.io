@@ -37,7 +37,7 @@ h2 {
 }
 
 .subheading {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-weight: 500;
   font-family: 'Saira Extra Condensed', serif;
   font-size: 1.35rem;
@@ -48,7 +48,8 @@ h2 {
 }
 
 .list-social-icons a:hover {
-  color: #BD5D38;
+  color: #cc3366;
+  /* color: #BD5D38; */
 }
 
 .list-social-icons a .fa-lg {
@@ -59,8 +60,12 @@ h2 {
   font-size: 3rem;
 }
 
-.list-icons .list-inline-item i:hover {
-  color: #BD5D38;
+.list-item {
+  list-style-type: none;
+}
+
+.list-icons .list-inline-item .list-item i:hover {
+  color: #cc3366;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -135,19 +140,19 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: #cc3366 !important;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #cc3366 !important;
 }
 
 a {
-  color: #BD5D38;
+  color: #cc3366;
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: #a32952;
 }
 
 img {

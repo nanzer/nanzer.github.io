@@ -17,9 +17,9 @@ phone = "1-365-777-1613"
 profileImage = "img/profile.jpg"
 showEducation = true
 showExperience = true
-showProjects = true
-showGraphics = true
-showWritten = true
+showProjects = false
+showGraphics = false
+showWritten = false
 showSkills = true
 showQr = false
 showBlog = false
@@ -40,7 +40,7 @@ name = "GitHub"
 icontag = "Git"
 
 [[params.handles]]
-link = "https://abhayraj.net/resume.pdf"
+link = "/Abhayraj_Jain_Resume.pdf"
 name = "PDF Resume"
 icontag = "black-tie"
 
