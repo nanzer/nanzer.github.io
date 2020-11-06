@@ -1,5 +1,5 @@
 title = "Abhayraj Jain"
-baseURL = "https://abhaytest.netlify.app/"
+baseURL = "https://abhayraj.net/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
