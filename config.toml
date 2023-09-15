@@ -27,7 +27,7 @@ showBlog = false
 [params.google]
 
 [params.google.analytics]
-trackerID = "UA-108350429-01"
+trackerID = "G-63RXG3TXR4"
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/abhayrajjain/"
