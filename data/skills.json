@@ -26,7 +26,7 @@
       { "name": "Motors (DC, BLDC, & AC)" },
       { "name": "Control Systems" },
       { "name": "Microcontrollers" },
-      { "name": "Arduino", "link": "/tags/arduino" },
+      { "name": "Arduino" },
       { "name": "Circuit Design" },
       { "name": "PCB Design" },
       { "name": "EAGLE" },
@@ -44,8 +44,8 @@
       "CAD/CAM",
       "SolidWorks",
       "AutoDesk Inventor",
-      { "name": "CNC", "link": "/tags/cnc" },
-      { "name": "3D Printing", "link": "/tags/3dprinting" },
+      { "name": "CNC"},
+      { "name": "3D Printing"},
       "Fusion 360"
     ]
   },
@@ -54,17 +54,15 @@
     "skills": [
       {
         "name": "Adobe PhotoShop",
-        "link": "/tags/graphic",
         "icon": "photoshop"
       },
       {
         "name": "Adobe InDesign",
-        "link": "/tags/magazine",
+        "link": "https://issuu.com/abhayrajjain",
         "icon": "html5_multimedia"
       },
       {
         "name": "Adobe Illustrator",
-        "link": "/tags/graphic",
         "icon": "illustrator"
       },
       { "name": "Adobe Premiere Pro", "icon": "html5_multimedia" },
