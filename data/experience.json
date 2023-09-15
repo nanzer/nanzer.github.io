@@ -1,15 +1,27 @@
 [
     {
+        "role":"Software Infrastructure Developer",
+        "company":"Christie Digital Systems Inc.",
+        "summary":"Working in a small team to develop and maintain internal tools, automation pipelines, and provide technical support to internal customers. Almost entirely Linux and open-source software used.",
+        "range":"September 2022 - Present"
+    },
+    {
+        "role":"Makerspace Lead (Part-time)",
+        "company":"The Forge, McMaster University",
+        "summary":"Maintained equipment and tools including resin and FDM 3D printers, a laser cutter, benchtop tools, and various hand tools. Advised incubator clients on prototype development, and aided with execution of prototype building. Helped CNC retrofit a manual milling machine.",
+        "range":"June 2022 - April 2023"
+    },
+    {
         "role":"Communications Assistant (Part-time)",
         "company":"Faculty of Engineering, McMaster University",
         "summary":"Assisted the Strategic Communications Department with content creation, including graphics, videos, webpages, and other materials as required.",
-        "range":"September 2020 - Present"
+        "range":"September 2020 - April 2022"
     },
     {
         "role":"Design Engineering Associate (Part-time)",
         "company":"Celestica Inc.",
         "summary":"Developed business intelligence dashboards to automatically track and forecast revenue for Value Engineering projects. Worked closely with the Supply Chain Department to implement accurate shipment data in the above.",
-        "range":"September 2020 - Present"
+        "range":"September 2020 - December 2020"
     },
     {
         "role":"Design Engineering Associate (Co-op)",

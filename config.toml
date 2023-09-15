@@ -9,7 +9,7 @@ enableGitInfo = true
 
 [params]
 address = "Hamilton, ON"
-email = "college@abhayraj.net"
+email = "hello@abhayraj.net"
 favicon = "/favicon.ico"
 firstName = "Abhayraj"
 lastName = "Jain"
@@ -33,11 +33,6 @@ trackerID = "UA-108350429-01"
 link = "https://www.linkedin.com/in/abhayrajjain/"
 name = "LinkedIn"
 icontag = "LinkedIn"
-
-[[params.handles]]
-link = "https://github.com/nanzer/"
-name = "GitHub"
-icontag = "Git"
 
 [[params.handles]]
 link = "/Abhayraj_Jain_Resume.pdf"

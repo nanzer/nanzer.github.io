@@ -1,47 +1,74 @@
 [
   {
-      "grouping":"Mechanical Engineering Skills & Tools",
-      "skills":[ "Engineering Design & Simulation","Manufacturing","Rapid Prototyping","CAD/CAM","SolidWorks","AutoDesk Inventor",{"name":"CNC","link":"/tags/cnc"},{"name":"3D Printing","link":"/tags/3dprinting"},"Fusion 360"]
-  },{
-      "grouping":"Electrical Engineering Skills & Software",
-      "skills":[
-        {"name":"Digital Signals & Logic"},
-        {"name":"Analog Sensors & Circuits"},
-        {"name":"Motors (DC, BLDC, & AC)"},
-        {"name":"Control Systems"},
-        {"name":"Microcontrollers"},
-        {"name":"Arduino","link":"/tags/arduino"},
-        {"name":"Circuit Design"},
-        {"name":"PCB Design"},
-        {"name":"EAGLE"},
-        {"name":"Component Engineering"},
-        {"name":"Electrical & Electronics MIL-SPEC"},
-        {"name":"PCB Design"}
-      ]
+    "grouping": "Software",
+    "skills": [
+      { "name": "Linux Fundamentals & Scripting", "icon": "linux" },
+      { "name": "CentOS/RHEL/Rocky Linux", "icon": "redhat" },
+      { "name": "CI/CD (GitLab, Jenkins)" },
+      { "name": "Reverse Proxy (Traefik)"},
+      { "name": "Containerization (Docker, Podman)"},
+      { "name": "Orchestration (Hashicorp Nomad)"},
+      { "name": "Service Mesh (Hashicorp Consul)"},
+      { "name": "Secrets Management (Hashicorp Vault)"},
+      { "name": "NoSQL", "icon": "database" },
+      { "name": "Google Cloud Platform", "icon": "google-cloud-platform" },
+      { "name": "Software Defined Storage (SeaweedFS, DRBD)"},
+      { "name": "Version Management (Git, SVN)"},
+      { "name": "Infrastructure-as-Code (Ansible)"},
+      { "name": "Python, Golang, JavaScript, YAML, JSON, CSS, HTML"}
+    ]
   },
   {
-      "grouping":"Software Engineering Languages, Operating Systems, & Tools",
-      "skills":[
-        {"name":"Linux","icon":"linux"},
-        {"name":"CentOS/RHEL","icon":"redhat"},
-        {"name":"Power BI","icon":"database"},
-        {"name":"Netlify"},
-        {"name":"Google Cloud Platform","icon":"google-cloud-platform"},
-        {"name":"C","icon":"c"},
-        {"name":"HTML","icon":"html5"},
-        {"name":"CSS","icon":"css3_full"},
-        {"name":"JavaScript","icon":"javascript"},
-        {"name":"NodeJS","icon":"nodejs_small"}
-      ]
+    "grouping": "Electrical",
+    "skills": [
+      { "name": "Digital Signals & Logic" },
+      { "name": "Analog Sensors & Circuits" },
+      { "name": "Motors (DC, BLDC, & AC)" },
+      { "name": "Control Systems" },
+      { "name": "Microcontrollers" },
+      { "name": "Arduino", "link": "/tags/arduino" },
+      { "name": "Circuit Design" },
+      { "name": "PCB Design" },
+      { "name": "EAGLE" },
+      { "name": "Component Engineering" },
+      { "name": "Electrical & Electronics MIL-SPEC" },
+      { "name": "PCB Design" }
+    ]
   },
   {
-    "grouping":"Graphics & Video",
-      "skills":[
-          {"name":"Adobe PhotoShop","link":"/tags/graphic","icon":"photoshop"},
-          {"name":"Adobe InDesign","link":"/tags/magazine","icon":"html5_multimedia"},
-          {"name":"Adobe Illustrator","link":"/tags/graphic","icon":"illustrator"},
-          {"name":"Adobe Premiere Pro","icon":"html5_multimedia"},
-          {"name":"DaVinci Resolve","icon":"html5_multimedia"}
-      ]
+    "grouping": "Mechanical",
+    "skills": [
+      "Engineering Design & Simulation",
+      "Manufacturing",
+      "Rapid Prototyping",
+      "CAD/CAM",
+      "SolidWorks",
+      "AutoDesk Inventor",
+      { "name": "CNC", "link": "/tags/cnc" },
+      { "name": "3D Printing", "link": "/tags/3dprinting" },
+      "Fusion 360"
+    ]
+  },
+  {
+    "grouping": "Graphics & Video",
+    "skills": [
+      {
+        "name": "Adobe PhotoShop",
+        "link": "/tags/graphic",
+        "icon": "photoshop"
+      },
+      {
+        "name": "Adobe InDesign",
+        "link": "/tags/magazine",
+        "icon": "html5_multimedia"
+      },
+      {
+        "name": "Adobe Illustrator",
+        "link": "/tags/graphic",
+        "icon": "illustrator"
+      },
+      { "name": "Adobe Premiere Pro", "icon": "html5_multimedia" },
+      { "name": "DaVinci Resolve", "icon": "html5_multimedia" }
+    ]
   }
 ]
