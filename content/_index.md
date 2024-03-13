@@ -1,6 +1,6 @@
 ---
 title: "Home"
-date: 2018-02-10T18:56:13-05:00
+date: 2024-03-12T18:56:13-05:00
 sitemap:
   priority : 1.0
 
@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-*Mechatronics Engineering student with a flair for digital art and a passion for literature.*
+*Linux native DevOps Engineer. Occasionally builds cool stuff.*
